@@ -7,7 +7,8 @@ public class Airtel implements I_Sim {
 	public void Disconnect()
 	{
 		System.out.println("Disconnect Via Airtel Sim....Free for local ,Rs10 for international");
-		
+		System.out.println("Disconnect Via Airtel Sim....Free for local ,Rs10 for international");
+		System.out.println("Disconnect Via Airtel Sim....Free for local ,Rs10 for international");
 	}
 	
 	@Override
@@ -21,5 +22,9 @@ public class Airtel implements I_Sim {
 		System.out.println("Browsing Via Airtel , 1GB downlaod speed...");
 		
 	}
+
+	
+
+	
 	
 }

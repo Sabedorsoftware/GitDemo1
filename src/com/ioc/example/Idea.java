@@ -19,7 +19,8 @@ public class Idea implements I_Sim
 	@Override
 	public void Browsing() {
 		System.out.println("Browsing Via Idea , 2GB downlaod speed...");
-		
+		System.out.println("Disconnect Via Airtel Sim....Free for local ,Rs10 for international");
+		System.out.println("Disconnect Via Airtel Sim....Free for local ,Rs10 for international");
 	}
 
 }
